@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ammanhailu
-- 👀 I’m interested in Network and Information Security
-- 🌱 I’m using GitHub to create side projects that interest me
+- Hi, I’m @ammanhailu
+- I have an interest in pen testing aswell as other aspects of network and information security
+- Using GitHub to find and create side projects that interest me
